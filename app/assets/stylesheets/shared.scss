@@ -1,0 +1,26 @@
+
+
+a {
+    color: beige;
+}
+
+
+html,
+body {
+  height: 100%;
+}
+
+#page-content {
+  flex: 1 0 auto;
+}
+
+#sticky-footer {
+  flex-shrink: none;
+}
+
+/* Other Classes for Page Styling */
+
+body {
+  background: #007bff;
+  background: linear-gradient(to left, #0062E6, rgb(75, 168, 230));
+}
